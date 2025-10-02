@@ -5,8 +5,14 @@ It allows you to add, update, delete, and view expenses, as well as get monthly 
 
 ---
 
-## 🌐 Project URL
+## 🌐 Project URLs
+
+**Repository URL:**  
 [https://github.com/Anku-aa/expense-tracker](https://github.com/Anku-aa/expense-tracker)
+
+**Live Project Page URL:**  
+[https://anku-aa.github.io/expense-tracker/](https://anku-aa.github.io/expense-tracker/)
+
 
 ---
 
