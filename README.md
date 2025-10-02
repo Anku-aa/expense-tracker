@@ -5,6 +5,11 @@ It allows you to add, update, delete, and view expenses, as well as get monthly 
 
 ---
 
+## 🌐 Project URL
+https://github.com/Anku-aa/expense-tracker
+
+---
+
 ## 🚀 Features
 - Add an expense with description and amount
 - Update an expense
@@ -23,4 +28,3 @@ It allows you to add, update, delete, and view expenses, as well as get monthly 
    ```bash
    git clone https://github.com/your-username/expense-tracker.git
    cd expense-tracker
-2. repo link:- https://github.com/Anku-aa/expense-tracker.git 
